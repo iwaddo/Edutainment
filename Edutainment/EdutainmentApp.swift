@@ -1,6 +1,6 @@
 //
-//  Edutainment2App.swift
-//  Edutainment2
+//  EdutainmentApp.swift
+//  Edutainment
 //
 //  Created by Ian Waddington on 27/12/2022.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Edutainment2App: App {
+struct EdutainmentApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
